@@ -2,6 +2,7 @@
 
 int main(void)
 {
-`	// коммит 1
+`	// commit 1
+	// commit 2
 	return 0;
 }
